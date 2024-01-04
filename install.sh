@@ -1,5 +1,5 @@
 echo 'Ubuntu Desktop Installer'
-echo 'ZCY'
+echo '995qa'
 echo 'NOTICE: Use your Internet.'
 sudo apt install ubuntu-Desktop
 sudo apt install lightdm
