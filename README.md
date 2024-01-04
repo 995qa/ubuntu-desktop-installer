@@ -2,7 +2,5 @@
 Ubuntu Desktop Installer for Ubuntu Server.
 
 # Instructions
-run the following:
-git clone https://github.com/995qa/ubuntu-desktop-installer.git |
-cd ubuntu-desktop-installer |
-sh install.sh
+Clone the repo and run install.sh
+Note: This will restart your computer.
